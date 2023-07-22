@@ -5,7 +5,7 @@ import time
 
 # ####
 # ！！！！
-# 44444
+# 44443333
 def execute_prestartup_script():
 # 1111111
     def execute_script(script_path):
